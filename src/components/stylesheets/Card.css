@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid black;
+    width: 1.5em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
+.back{
+    border: 1px solid black;
+    width: 20px;
+    height: 22px;
+    background-color: black;
+}
